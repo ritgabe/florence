@@ -1,0 +1,34 @@
+.content{
+    padding: 50px;
+    max-width: 40%;
+    border-left: 2px solid;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.header{
+    position: relative;
+    text-align: center;
+    color: black;
+    max-height: 300px;
+    overflow: hidden;
+}
+
+.header-text{
+    position: absolute;
+    top: 40%;
+    left: 1%;
+    font-family: 'Allura', cursive;
+    font-size: 2.5em;
+    background: rgba(240, 216, 0, 0.815);
+    padding: 13px;
+    border-radius: 16px
+}
+
+h2, h3{
+    font-family: 'Crimson Text', serif;
+}
+
+p{
+    font-family: 'Urbanist', sans-serif;
+}

@@ -20,6 +20,10 @@ body {
   overflow: hidden;
 }
 
+.header img {
+  width: 100%;
+  height: auto;
+}
 .header-text {
   position: absolute;
   top: 40%;

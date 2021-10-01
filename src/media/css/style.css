@@ -6,7 +6,7 @@ body {
 
 .content {
   padding: 50px;
-  max-width: 40%;
+  /* max-width: 40%; */
   border-left: 2px solid;
   margin-left: 20px;
   margin-top: 20px;
@@ -76,4 +76,17 @@ p {
 
 .row{
   display: flex;
+}
+
+.img {
+    position: relative;
+   
+    height: auto;
+    margin: auto;
+    display: block;
+}
+
+.affinity{
+  max-width: 800px;
+   width: 100%;
 }

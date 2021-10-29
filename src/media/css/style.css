@@ -74,19 +74,25 @@ p {
   text-align: center;
 }
 
-.row{
+.row {
   display: flex;
 }
 
 .img {
-    position: relative;
-   
-    height: auto;
-    margin: auto;
-    display: block;
+  position: relative;
+
+  height: auto;
+  margin: auto;
+  display: block;
 }
 
-.affinity{
+.affinity {
   max-width: 800px;
-   width: 100%;
+  width: 100%;
+}
+
+#persona img {
+  display: block;
+  padding: 0px 0px 25px;
+  max-width: 900px;
 }
